@@ -1,7 +1,6 @@
  Hi 👋, I'm Kareem Adel
- <img src="./programmer.gif" width="200">
 
-Computer Engineering Student @MSA UNIVERISTY | AI & Machine Learning
+Computer Engineering Student @MSA UNIVERISTY | AI & Machine Learning                               <img src="./programmer.gif" width="350">
 
 I'm a Computer Engineering student interested in Artificial Intelligence,                              
 Machine Learning, Deep Learning, and Software Development.

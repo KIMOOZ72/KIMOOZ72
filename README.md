@@ -1,16 +1,25 @@
-## Hi there 👋
+ Hi 👋, I'm Kareem Adel
 
-<!--
-**KIMOOZ72/KIMOOZ72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student @MSA UNIVERISTY | AI & Machine Learning
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student interested in Artificial Intelligence,
+Machine Learning, Deep Learning, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+- 🎓 B.Sc. Computer Engineering student at MSA University
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 💻 Working with C++, C, Python, and AI technologies
+- 🧠 Interested in Deep Learning and Computer Vision
+- 🌱 Currently improving my skills in AI and Software Engineering
+- 🎯 Goal: Build a career in AI and Computer Engineering
+
+🛠️ Skills
+
+- C++
+- C
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Jupyter Notebook

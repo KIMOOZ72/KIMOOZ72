@@ -5,7 +5,7 @@ Computer Engineering Student @MSA UNIVERISTY | AI & Machine Learning
 I'm a Computer Engineering student interested in Artificial Intelligence,                              
 Machine Learning, Deep Learning, and Software Development.
 
-👨‍💻 About Me              <img src="./programmer.gif" width="200">
+👨‍💻 About Me              <img src="./programmer.gif" width="250">
 
 - 🎓 B.Sc. Computer Engineering student at MSA University
 - 🤖 Interested in Artificial Intelligence and Machine Learning
